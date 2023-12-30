@@ -31,7 +31,7 @@ Library Management System is a simple console-based application that allows user
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/NavnathVarade/library-management-system.git
+   git clone git clone https://github.com/NavnathVarade/CPP-Projects.git -b main --single-branch Library-Management-System
 
 2. Navigate to the project directory:
 
