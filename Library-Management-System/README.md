@@ -1,6 +1,6 @@
 # Library Management System
 
-Library Management System is a simple console-based application that allows users to manage a library's book inventory. It utilizes Object-Oriented Programming (OOP) concepts such as classes and objects to organize and manipulate book data.
+This is a simple Library Management System implemented in C++. The system allows users to perform basic operations such as adding books, deleting books, editing book details, searching for a book, viewing all books, and quitting the system. The data is stored in a file (library_data.txt) to persist across different program runs.
 
 ## Table of Contents
 
@@ -9,15 +9,17 @@ Library Management System is a simple console-based application that allows user
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+- [Acknowledgments](#Acknowledgments)
 
 ## Features
 
-- **Add Book**: Add new books to the library inventory.
-- **Delete Book**: Remove books from the library inventory.
-- **Edit Book**: Modify existing book details.
-- **Search Book**: Find books by ISBN.
+- **Add Book**: Users can add a new book to the library by providing ISBN, title, author, edition, and publication details.
+- **Delete Book**: Users can delete a book from the library by entering its ISBN.
+- **Edit Book**: Users can edit the details of an existing book, including ISBN, title, author, edition, and publication.
+- **Search Book**: Users can search for a book by its ISBN and view its details.
 - **View All Books**: Display details of all books in the library.
 - **Quit**: Exit the application.
+- **Save and Load**: The system supports saving the library data to a file (library_data.txt) and loading it back when the program starts.
 
 ## Getting Started
 
@@ -59,4 +61,6 @@ Contributions are welcome! If you find a bug or have an enhancement in mind, ple
 ## License 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-
+## Acknowledgments
+Inspired by the need for a simple and effective library management system.
+Built with C++ to showcase basic programming concepts.
