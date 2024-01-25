@@ -33,7 +33,7 @@ This is a simple Library Management System implemented in C++. The system allows
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/NavnathVarade/CPP-Projects.git -b main --single-branch Library-Management-System
+   git clone https://github.com/NavnathVarade/CPP-And-C-Projects.git -b main --single-branch Library-Management-System
 
 2. Navigate to the project directory:
 
