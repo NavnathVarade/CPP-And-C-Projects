@@ -14,8 +14,8 @@ This is a simple Student Management System implemented in C. The system provides
 
 
 ## Login Details
--**Username**: admin
--**Password**: pass
+- **Username**: admin
+- **Password**: pass
 
 ## Features
 
